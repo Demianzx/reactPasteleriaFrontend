@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/reactPasteleriaFrontend/static/css/main.5ecd60fb.chunk.css",
+    "main.js": "/reactPasteleriaFrontend/static/js/main.47b4c879.chunk.js",
+    "main.js.map": "/reactPasteleriaFrontend/static/js/main.47b4c879.chunk.js.map",
+    "runtime-main.js": "/reactPasteleriaFrontend/static/js/runtime-main.ad766385.js",
+    "runtime-main.js.map": "/reactPasteleriaFrontend/static/js/runtime-main.ad766385.js.map",
+    "static/css/2.63ba52ef.chunk.css": "/reactPasteleriaFrontend/static/css/2.63ba52ef.chunk.css",
+    "static/js/2.059d210b.chunk.js": "/reactPasteleriaFrontend/static/js/2.059d210b.chunk.js",
+    "static/js/2.059d210b.chunk.js.map": "/reactPasteleriaFrontend/static/js/2.059d210b.chunk.js.map",
+    "index.html": "/reactPasteleriaFrontend/index.html",
+    "precache-manifest.20b83cce00d845ac4cdd231f0e3ea3f0.js": "/reactPasteleriaFrontend/precache-manifest.20b83cce00d845ac4cdd231f0e3ea3f0.js",
+    "service-worker.js": "/reactPasteleriaFrontend/service-worker.js",
+    "static/css/2.63ba52ef.chunk.css.map": "/reactPasteleriaFrontend/static/css/2.63ba52ef.chunk.css.map",
+    "static/css/main.5ecd60fb.chunk.css.map": "/reactPasteleriaFrontend/static/css/main.5ecd60fb.chunk.css.map",
+    "static/js/2.059d210b.chunk.js.LICENSE.txt": "/reactPasteleriaFrontend/static/js/2.059d210b.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ad766385.js",
+    "static/css/2.63ba52ef.chunk.css",
+    "static/js/2.059d210b.chunk.js",
+    "static/css/main.5ecd60fb.chunk.css",
+    "static/js/main.47b4c879.chunk.js"
+  ]
+}
